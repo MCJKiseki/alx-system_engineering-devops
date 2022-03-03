@@ -1,2 +1,2 @@
 #!/bin/bash
-# first shell basic readme
+THE FIRST SHELL BASIC PROJECT
